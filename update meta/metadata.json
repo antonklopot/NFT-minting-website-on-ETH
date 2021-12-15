@@ -1,0 +1,10 @@
+{
+  "name": "{{name}}",
+  "image": "{{assetUrl}}",
+  "description": "This is showing image",
+  "properties": {
+    "head":"round",
+    "legs":"long"
+  },
+  "unlockable":"some string"
+}

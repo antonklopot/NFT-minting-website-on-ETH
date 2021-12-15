@@ -1,0 +1,19 @@
+{
+  "name": "nft_update_meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
+    "prompts": "^2.4.1",
+    "web3": "^1.3.6"
+  }
+}
