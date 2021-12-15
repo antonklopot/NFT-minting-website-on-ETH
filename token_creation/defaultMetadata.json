@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "asset": "",
+  "description": "",
+  "properties": {
+    "head": "round",
+    "legs": "long"
+  },
+  "unlockable": "some string"
+}
